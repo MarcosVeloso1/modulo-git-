@@ -1,0 +1,29 @@
+[33mcommit 3d5c10d0213dc4281504faa981d917596f272e97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: marcos <marcos@teste.com>
+Date:   Wed Sep 25 00:32:04 2024 -0300
+
+    adicionando um arquivo
+
+ teste.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 86b53f64d9581d1c42b4256ac7703f235f4b77f3[m
+Author: marcos <marcos@teste.com>
+Date:   Tue Sep 24 23:14:48 2024 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 13 [32m+++++++++++++[m
+ 1 file changed, 13 insertions(+)
+
+[33mcommit 789ecebefd5f1d65331b0fda515582284c5d154e[m
+Author: marcos <marcos@teste.com>
+Date:   Tue Sep 24 22:25:07 2024 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | 1 [32m+[m
+ arquivo2.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
